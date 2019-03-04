@@ -1,0 +1,34 @@
+_repo: Burgess-Unabridged-A-new-dictionary-of-words-you-have-always-needed_59004
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Roth, Herb
+    alias: Roth, Herbert
+    birthdate: 1887
+    deathdate: 1953
+    gutenberg_agent_id: '42101'
+    url: http://www.gutenberg.org/2009/agents/42101
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2019-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Burgess Unabridged
+
+  A new dictionary of words you have always needed'
+url: http://www.gutenberg.org/ebooks/59004
